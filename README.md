@@ -381,18 +381,6 @@ Animation effects does not work on path movement.
 </tr>
 </table>
 
-# To Do
-
-* Support OS X
-* Support Swift 2.0
-
-----
-
-# Contact
-
-* If you have some advice open an issue or a PR.
-* Email [Draveness](mailto: i@draveness.me)
-
 # License
 
 DKChainableAnimationKit is available under the MIT license. See the LICENSE file for more info.
