@@ -24,9 +24,5 @@ let package = Package(
             name: "DKChainableAnimationKit",
             dependencies: []
         ),
-        .testTarget(
-            name: "DKChainableAnimationKitTests",
-            dependencies: ["DKChainableAnimationKit"]
-        ),
     ]
 )
